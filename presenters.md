@@ -31,7 +31,7 @@ Presentations will be selected based on the submitted title and abstract only (b
 <p>Talks should be 12 minutes long, which allows 3 minutes for questions and discussion as each slot is 15 minutes.</p>
 <p>Presentation slides should be saved in PowerPoint (.ppt) or PDF (.pdf) format on a flash drive which you should bring on the day. The presentation will be on a Windows machine</p>
 <h3>Flash talks</h3>
-<p>Flash talks should be 2 minutes long. There will be no questions, as the flash talk acts as an advertisement for your poster. </p>
+<p>Flash talks should be 5 minutes long. There will be no questions, as the flash talk acts as an advertisement for your poster. </p>
 <p>Presentation slides should be saved in PowerPoint (.ppt) or PDF (.pdf) format on a flash drive which you should bring on the day. The presentation will be on a Windows machine</p>
 <h3>Posters</h3>
 <p>Posters should be A1 (59.4 cm x 84.1 cm), portrait orientation.</p>
