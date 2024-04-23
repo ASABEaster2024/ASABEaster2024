@@ -5,7 +5,7 @@ permalink: /venue/
 ---
 ***
 <h3>Conference venue</h3>
-<p>Peter Chalk Conference Centre on the University of Exeter Streatham Campus</p>
+<p>Queen's Building on the University of Exeter Streatham Campus</p>
 <p>Stocker Road, Exeter, Devon, EX4 4QD</p>
 <div style="text-align:center"><img class="image center" src="/assets/images/University_of_Exeter,_Streatham_Campus_-_geograph.org.uk_-_1004277.jpg"/></div><br/>
 
